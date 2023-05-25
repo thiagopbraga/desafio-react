@@ -1,4 +1,4 @@
-# Desafio React Jr Server Softwares
+# Desafio React
 
 ## Tecnologias utilizadas:
 
